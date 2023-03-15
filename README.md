@@ -6,7 +6,7 @@
 - ⚡ Fun fact: Coding and exploring the World are the best parts of my life.
 
 ## My stack
-![image](https://user-images.githubusercontent.com/110984407/225449507-c22ce691-a436-468d-a8a2-eae071b088b1.png)
+![image width="50px" ](https://user-images.githubusercontent.com/110984407/225449507-c22ce691-a436-468d-a8a2-eae071b088b1.png)
 ![image](https://user-images.githubusercontent.com/110984407/225449533-22f885ab-aefa-4ca8-9cd8-8953728aa128.png)
 ![image](https://user-images.githubusercontent.com/110984407/225449350-aef543f7-313c-437f-98af-f83108a8e7e8.png)
 ![image](https://user-images.githubusercontent.com/110984407/225449403-0c9fcf11-e6c5-4a22-8b4d-2fb10440ac4f.png)
