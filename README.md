@@ -7,13 +7,11 @@
 
 ## My stack
 
-![image](https://user-images.githubusercontent.com/110984407/225452092-93c42e6c-a8b7-46d1-82ef-61cd7542d638.png)
-![image](https://user-images.githubusercontent.com/110984407/225449533-22f885ab-aefa-4ca8-9cd8-8953728aa128.png)
-![image](https://user-images.githubusercontent.com/110984407/225449350-aef543f7-313c-437f-98af-f83108a8e7e8.png)
-![image](https://user-images.githubusercontent.com/110984407/225449403-0c9fcf11-e6c5-4a22-8b4d-2fb10440ac4f.png)
-![image](https://user-images.githubusercontent.com/110984407/225449567-df46bacf-e7bd-4ce1-8778-74dea653a9d9.png)
-![image](https://user-images.githubusercontent.com/110984407/225449592-3e7b3570-9656-428e-9f82-1f3dbfeca4e7.png)
-![image](https://user-images.githubusercontent.com/110984407/225449629-f4189c05-90b2-4b74-a23f-dfcf72c394d9.png)
-![image](https://user-images.githubusercontent.com/110984407/225449648-6ac5f4e7-33cf-4244-9744-bdeecdff2ca6.png)
-![image](https://user-images.githubusercontent.com/110984407/225449667-f10f524e-3092-4912-8fb6-aba6eed4c02f.png)
-
+<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
